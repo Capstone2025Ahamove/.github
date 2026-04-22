@@ -73,14 +73,16 @@ Mobile Applications (iOS/Android)
 
 ---
 
-## My Contributions
+## Team Contributions
 
-- Designed and developed the **iOS application** using SwiftUI  
-- Implemented **file upload and AI analysis workflows** (CSV, Excel, image-based input)  
-- Built UI/UX for dashboard interpretation and user interaction  
-- Integrated mobile frontend with AI/ML backend for KPI insights  
-- Coordinated project timelines and task dependencies using Gantt planning  
-- Supported cross-team collaboration and stakeholder communication  
+A cross-functional team collaborated to deliver an end-to-end KPI analytics system, covering data pipelines, dashboards, AI modeling, and mobile applications.
+
+- **Kiên (Mobile & Integration)** – Built iOS app with SwiftUI and implemented AI-driven KPI analysis workflows  
+- **Luan (Data & BI Lead)** – Designed KPI framework and developed Power BI dashboards and data models  
+- **Minh Dang (Data Engineering)** – Developed ETL processes, data transformations, and dashboard validation  
+- **An (AI/ML & System Design)** – Designed and implemented machine learning models for forecasting and anomaly detection  
+
+Collaborated on system architecture, client communication, and aligning technical implementation with business needs.
 
 ---
 
@@ -94,7 +96,7 @@ Mobile Applications (iOS/Android)
 ---
 
 ## Screenshots
-*(Add your iOS screenshots here — VERY important)*
+
 
 ---
 
