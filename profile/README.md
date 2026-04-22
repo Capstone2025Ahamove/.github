@@ -41,11 +41,11 @@ This project addresses these issues by creating a **centralized, data-driven per
 ---
 
 ## Architecture
-Data Sources → ETL Pipeline → Power BI Dashboards
-↓
-AI/ML Module
-↓
-Mobile Applications (iOS/Android)
+Data Sources → ETL Pipeline → Power BI Dashboards  
+↓  
+AI/ML Module  
+↓  
+Mobile Applications (iOS/Android)  
 
 ---
 
@@ -75,12 +75,13 @@ Mobile Applications (iOS/Android)
 
 ## Team Contributions
 
+Code Commanders – RMIT University Capstone Project (2025)  
 A cross-functional team collaborated to deliver an end-to-end KPI analytics system, covering data pipelines, dashboards, AI modeling, and mobile applications.
 
-- **Kiên (Mobile & Integration)** – Built iOS app with SwiftUI and implemented AI-driven KPI analysis workflows  
-- **Luan (Data & BI Lead)** – Designed KPI framework and developed Power BI dashboards and data models  
-- **Minh Dang (Data Engineering)** – Developed ETL processes, data transformations, and dashboard validation  
-- **An (AI/ML & System Design)** – Designed and implemented machine learning models for forecasting and anomaly detection  
+- **Le Trung Kien (Mobile & Integration)** – Built iOS app with SwiftUI and implemented AI-driven KPI analysis workflows  
+- **Dang Vinh Luan (Data & BI Lead)** – Designed KPI framework and developed Power BI dashboards and data models  
+- **Pham Nguyen Minh Dang (Data Engineering)** – Developed ETL processes, data transformations, and dashboard validation  
+- **Luu Tuan An (AI/ML & System Design)** – Designed and implemented machine learning models for forecasting and anomaly detection  
 
 Collaborated on system architecture, client communication, and aligning technical implementation with business needs.
 
@@ -97,11 +98,46 @@ Collaborated on system architecture, client communication, and aligning technica
 
 ## Screenshots
 
+<table>
+<tr>
+<td align="center">
+<img width="250" alt="Picture1" src="https://github.com/user-attachments/assets/dda2ea20-a67a-45a7-acd5-fa2144d3cd99" />
+<br/>
+<b>Home / Upload</b>
+</td>
 
----
+<td align="center">
+<img width="250" alt="Picture2" src="https://github.com/user-attachments/assets/325cc94a-2c0d-41f5-bd35-784fa70e1c70" />
+<br/>
+<b>KPI Prediction</b>
+</td>
 
-## Team
-Code Commanders – RMIT University Capstone Project (2025)
+<td align="center">
+<img width="250" alt="Picture3" src="https://github.com/user-attachments/assets/55ce7a5b-10d8-4d3f-8e1a-6aba9e9a9d31" />
+<br/>
+<b>Analysis Summary</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img width="250" alt="Picture4" src="https://github.com/user-attachments/assets/02cc880c-35a6-4798-b22a-f7844fa9c728" />
+<br/>
+<b>AI Chat Interface</b>
+</td>
+
+<td align="center">
+<img width="250" alt="Picture5" src="https://github.com/user-attachments/assets/dcecf068-0c9d-4d82-b04d-90411fc17727" />
+<br/>
+<b>Saved Conversations</b>
+</td>
+
+<td align="center">
+<img src="images/dashboard.png" width="250"/><br/>
+<b>Power BI Dashboard</b>
+</td>
+</tr>
+</table>
 
 ---
 
